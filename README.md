@@ -26,3 +26,9 @@ Place the training data in:
 
 ```text
 ./training/
+
+## Competition Result
+
+The selected Rank Prediction submission achieved a Public score of **0.5118926** on the official AI CUP leaderboard.
+
+The notebook in this repository contains the reproducible Rank Prediction workflow used during our competition experiments. The original CSV corresponding to the selected leaderboard submission was not retained locally.
